@@ -1,2 +1,2 @@
 # Программа подсчёта бонусов
-gfjdhgkjdhgk
+gfjdhgkjdhgk~~~~
