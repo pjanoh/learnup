@@ -1,7 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        int amount = 500;
+        int amount = 60;
         int discount = 100;
+
+        if (discount >= amount) {
+            discount = amount - 1;
+        }
 
         int total = amount - discount;
         System.out.println("Итог: " + total);
